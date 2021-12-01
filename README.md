@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @sixcolors
-  - Software engineering team lead at the Royal Canadian Air Force (RCAF) Flight Deck, and;
+  - Software developer and entrepreneur;
+  - Software engineering team lead at the Royal Canadian Air Force (RCAF) Flight Deck; and;
   - President and lead developer at X2 Studios Ltd.
 - 👀 I’m interested in solving interesting problems.
 - 🌱 I’m always learning.
 - 📫 How to reach me:
-  - RCAF issues: jason@rcafinnovation.ca,
-  - X2 Studios issues: jmcneil@x2studios.com, or
-  - Personal projects: sixcolors@mac.com
+  - Personal projects: sixcolors@mac.com;
+  - RCAF issues: jason@rcafinnovation.ca; or
+  - X2 Studios issues: jmcneil@x2studios.com.
