@@ -5,6 +5,6 @@
 - 👀 I’m interested in solving interesting problems.
 - 🌱 I’m always learning.
 - 📫 How to reach me:
-  - Personal projects: sixcolors@mac.com;
-  - X2 Studios issues: jmcneil@x2studios.com; or
-  - RCAF issues: jason@rcafinnovation.ca.
+  - About Personal projects: sixcolors@mac.com;
+  - About X2 Studios matters: jmcneil@x2studios.com; or
+  - About RCAF matters: jason@rcafinnovation.ca.
