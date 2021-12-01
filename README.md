@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sixcolors
+- 👋 Hi, I’m Jason McNeil
   - Software developer and entrepreneur;
   - Software engineering team lead at the Royal Canadian Air Force (RCAF) Flight Deck; and;
   - President and lead developer at X2 Studios Ltd.
