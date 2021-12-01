@@ -3,4 +3,7 @@
   - President and lead developer at X2 Studios Ltd.
 - 👀 I’m interested in solving interesting problems.
 - 🌱 I’m always learning.
-- 📫 How to reach me: jason@rcafinnovation.ca or jmcneil@x2studios.com as applicable.
+- 📫 How to reach me:
+  - RCAF issues: jason@rcafinnovation.ca,
+  - X2 Studios issues: jmcneil@x2studios.com, or
+  - Personal projects: sixcolors@mac.com
