@@ -8,5 +8,5 @@
   - About Personal projects: sixcolors@mac.com;
   - About X2 Studios matters: jmcneil@x2studios.com; or
   - About RCAF matters: jason@rcafinnovation.ca.
-- 💰 How to hire me:
+- 💰 Want to hire me?:
   - [linkedin](https://www.linkedin.com/in/jason-m-74353b169)
