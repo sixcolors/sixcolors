@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jason McNeil
   - Father, husband, and rec hockey player;
-  - President and software developer at X2 Studios Ltd; and
+  - President and software developer at [X2 Studios Ltd](https://www.x2studios.com); and
   - Technical Lead / Senior Software Developer at the Royal Canadian Air Force (RCAF).
 - 👀 I’m interested in solving interesting problems.
 - 🌱 I’m always learning.
