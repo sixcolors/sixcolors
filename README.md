@@ -6,6 +6,7 @@
 - 🌱 I’m always learning.
 - 👔 Most of my code is in proprietary projects. When I can, I gladly contribute to the open source projects I use. 
 - 📫 How to reach me:
+  - [github-homepage](https://sixcolors.github.io/jasons-homepage/)
   - About Personal projects: sixcolors@mac.com;
   - About X2 Studios matters: jmcneil@x2studios.com; or
   - About RCAF matters: jason@rcafinnovation.ca.
