@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Jason McNeil
 - 👀 I’m interested in solving interesting problems.
 - 🌱 I’m always learning.
+  - 🏫 [CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/2023/) ([Certificate](https://cs50.harvard.edu/certificates/72c7370d-bff3-485a-94df-60e09bb0ae28))</li>
   - 🏫 [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/) (in progress)</li>
   - 🎲 [leetcode profile](https://leetcode.com/sixcolors/)
 - 👔 Most of my code is in proprietary projects. When I can, I gladly contribute to the open source projects I use. 
