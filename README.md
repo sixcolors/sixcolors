@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jason McNeil
 - 👀 I’m interested in solving interesting problems.
 - 🌱 I’m always learning.
-  - 🎲 [leetcode profile](https://leetcode.com/sixcolors/)
+  - 🎲 [LeetCode profile](https://leetcode.com/sixcolors/)
 - 👔 Most of my code is in proprietary projects. When I can, I gladly contribute to the open source projects I use. 
 - 📫 How to reach me:
   - [github-homepage](https://sixcolors.github.io/jasons-homepage/)
