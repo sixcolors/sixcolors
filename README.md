@@ -1,6 +1,6 @@
 # Jason McNeil (@sixcolors)
 
-- Maintainer of [Fiber](https://github.com/gofiber/fiber) (38 k★ Go web framework)  
+- Fiber maintainer [gofiber/fiber](https://github.com/gofiber/fiber) (38k★ Go web framework)  
 - Primary developer behind [X2 Studios](https://x2studios.com) apps (Weather Office, Closures, PixelPulse, logSheet, etc.)  
 - Royal Canadian Air Force (20+ years) — currently supervising avionics technicians on the CP-140 Aurora fleet (operational squadron)  
 - Previously Staff Software Engineer, RCAF innovation cell  
