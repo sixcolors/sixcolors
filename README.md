@@ -1,15 +1,15 @@
 # Jason McNeil (@sixcolors)
 
-- Fiber maintainer [gofiber/fiber](https://github.com/gofiber/fiber) (38k★ Go web framework)  
-- Primary developer behind [X2 Studios](https://x2studios.com) apps (Weather Office, Closures, PixelPulse, logSheet, etc.)  
-- Royal Canadian Air Force (20+ years) — currently supervising avionics technicians on intelligence, surveillance, and reconnaissance (ISR) aircraft (operational squadron)  
-- Previously, Staff Software Developer at the Royal Canadian Air Force.
+- Fibre Maintainer [gofiber/fibre](https://github.com/gofiber/fibre) (38k★ Go web framework). 
+- The primary developer behind [X2 Studios](https://x2studios.com) apps, including Weather Office, Closures, PixelPulse, logSheet, and others.
+- Royal Canadian Air Force (over 20 years): Currently supervising avionics technicians on intelligence, surveillance, and reconnaissance (ISR) aircraft within an operational squadron. 
+Previously, I was a Staff Software Developer at the Royal Canadian Air Force.
 
-I like building things that are fast, secure, and actually ship.
+I enjoy building fast, secure, and shipable things.
 
-Public repos are personal/open-source only. Day-job code is classified or private.
+Public repositories are personal or open-source, while my day-job code is classified or private.
 
-Hit me up if you need something that can handle a few million requests per second without drama.
+If you need something capable of handling a few million requests per second without any drama, let me know.
 
 ### Reach me
 - Website → [sixcolors.github.io/jasons-homepage](https://sixcolors.github.io/jasons-homepage/)  
