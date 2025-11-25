@@ -7,7 +7,7 @@
 
 I enjoy building fast, secure, and shipable things.
 
-Public repositories are personal or open-source, while my day-job code is classified or private.
+Public repositories are personal or open-source, while my day-job code is private.
 
 If you need something capable of handling a few million requests per second without any drama, let me know.
 
