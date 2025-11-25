@@ -3,7 +3,7 @@
 - Fiber maintainer [gofiber/fiber](https://github.com/gofiber/fiber) (38k★ Go web framework)  
 - Primary developer behind [X2 Studios](https://x2studios.com) apps (Weather Office, Closures, PixelPulse, logSheet, etc.)  
 - Royal Canadian Air Force (20+ years) — currently supervising avionics technicians on intelligence, surveillance, and reconnaissance (ISR) aircraft (operational squadron)  
-- Previously, Staff Software Engineer at the Royal Canadian Air Force.
+- Previously, Staff Software Developer at the Royal Canadian Air Force.
 
 I like building things that are fast, secure, and actually ship.
 
